@@ -1,19 +1,3 @@
-# Laravel 5.8 Classifieds Directory demo
-
-Simple project with classifieds database of companies/services/cities, partly generated with our [QuickAdminPanel 2019](https://2019.quickadminpanel.com).
-
-__Notice__: We also released a [Vue.js version of this project](https://github.com/LaravelDaily/Classimax-Directory-Laravel-Vue).
-
-![Laravel Classimax screenshot](https://quickadminpanel.com/assets/pages/demos/demo-classimax-01.png)
-
-Front-end view is based on free Bootstrap template: [Classimax](https://themefisher.com/downloads/classimax-bootstrap-classified-responsive-theme/)
-
----
-
-![Laravel Classimax admin screenshot](https://quickadminpanel.com/assets/pages/demos/demo-classimax-02.png)
-
-Adminpanel is generated with Laravel generator: [QuickAdminPanel.com](https://2019.quickadminpanel.com)
-
 
 ## How to use
 
